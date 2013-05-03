@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+
+# Ignore compiled files
+target/
+
+# Ignore IDEA files
+.idea/
+*.iml
